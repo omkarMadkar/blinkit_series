@@ -33,7 +33,7 @@ This project meticulously recreates the core visual elements and user interface 
 
 This project is inspired by the original Blinkit app and developed using the following Figma design:
 
-🔗 [View the Figma Design](https://www.figma.com/design/TEkJ26SFyAQpba9kHuJozb/Untitled?node-id=0-1&t=GNxrKYCkV9U1iDMt-1)
+🔗 [View the Figma Design](https://www.figma.com/design/TEkJ26SFyAQpba9kHuJozb/Untitled?node-id=6-38&t=GNxrKYCkV9U1iDMt-1)
 
 > **Goal:** Build a modular, scalable, and responsive frontend base for future backend integration.
 
