@@ -21,11 +21,9 @@ This project meticulously recreates the core visual elements and user interface 
 
 ## 📸 Screenshots
 
-> *(Add your actual screenshots or preview GIF here)*
-
-| Splash | Onboarding | Home | Cart | Category | Print |
-|--------|------------|------|------|----------|-------|
-| ![Splash](blinkit_series/screens/splash.png) | ![Onboarding](blinkit_series/screens/onboarding.png) | ![Home](blinkit_series/screens/home.png) | ![Cart](blinkit_series/screens/cart.png) | ![Category](blinkit_series/screens/category.png) | ![Print](blinkit_series/screensprint.png) |
+| Splash | Print | Home | Category | Onboarding | Cart |
+|--------|-------|------|----------|------------|------|
+| ![Splash](screenssplash.png) | ![Print](screensprint.png) | ![Home](screenshome.png) | ![Category](screenscategory.png) | ![Onboarding](screensonboarding.png) | ![Cart](screenscart.png) |
 
 ---
 
