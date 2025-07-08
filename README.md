@@ -25,7 +25,7 @@ This project meticulously recreates the core visual elements and user interface 
 
 | Splash | Onboarding | Home | Cart | Category | Print |
 |--------|------------|------|------|----------|-------|
-| ![Splash](screens/splash.png) | ![Onboarding](screens/onboarding.png) | ![Home](screens/home.png) | ![Cart](screens/cart.png) | ![Category](screens/category.png) | ![Print](screens/print.png) |
+| ![Splash](blinkit_series/screens/splash.png) | ![Onboarding](blinkit_series/screens/onboarding.png) | ![Home](blinkit_series/screens/home.png) | ![Cart](blinkit_series/screens/cart.png) | ![Category](blinkit_series/screens/category.png) | ![Print](blinkit_series/screensprint.png) |
 
 ---
 
